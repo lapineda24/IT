@@ -1,0 +1,10 @@
+C:\Users\lapin\source\repos\IT\Praсtiсe4\Praсtiсe4\bin\Debug\Praсtiсe4.exe.config
+C:\Users\lapin\source\repos\IT\Praсtiсe4\Praсtiсe4\bin\Debug\Praсtiсe4.exe
+C:\Users\lapin\source\repos\IT\Praсtiсe4\Praсtiсe4\bin\Debug\Praсtiсe4.pdb
+C:\Users\lapin\source\repos\IT\Praсtiсe4\Praсtiсe4\obj\Debug\Praсtiсe4.csprojAssemblyReference.cache
+C:\Users\lapin\source\repos\IT\Praсtiсe4\Praсtiсe4\obj\Debug\Praсtiсe4.Form1.resources
+C:\Users\lapin\source\repos\IT\Praсtiсe4\Praсtiсe4\obj\Debug\Praсtiсe4.Properties.Resources.resources
+C:\Users\lapin\source\repos\IT\Praсtiсe4\Praсtiсe4\obj\Debug\Praсtiсe4.csproj.GenerateResource.cache
+C:\Users\lapin\source\repos\IT\Praсtiсe4\Praсtiсe4\obj\Debug\Praсtiсe4.csproj.CoreCompileInputs.cache
+C:\Users\lapin\source\repos\IT\Praсtiсe4\Praсtiсe4\obj\Debug\Praсtiсe4.exe
+C:\Users\lapin\source\repos\IT\Praсtiсe4\Praсtiсe4\obj\Debug\Praсtiсe4.pdb
