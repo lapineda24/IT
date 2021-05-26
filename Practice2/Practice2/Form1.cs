@@ -30,7 +30,7 @@ namespace Practice2
     {
       int x = Convert.ToInt32(textBoxForX.Text);
       double y;
-      y = ((Math.Pow(x, 1 / 3) - Math.Log(x)))/(Math.Pow(Math.Cos(2*x), 2) + Math.Abs(x - 3)) + (3 * Math.Pow(x - 3, 2))/(Math.Log(x) + 2);
+      y = ((Math.Pow(x, 3 / 2) - Math.Log(x)))/(Math.Cos(2 * Math.Pow(x, 2)) + Math.Abs(x - 3)) + (3 * Math.Pow(x - 3, 2))/(Math.Log(x) + 2);
       textBoxForCalculate.Text += $"При X = {x}";
       textBoxForCalculate.Text += Environment.NewLine;
       textBoxForCalculate.Text += $"Y = {y}";

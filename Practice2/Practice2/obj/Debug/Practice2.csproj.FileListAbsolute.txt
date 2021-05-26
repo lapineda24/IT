@@ -8,3 +8,13 @@ C:\Users\lapin\source\repos\Practice2\Practice2\obj\Debug\Practice2.csproj.Gener
 C:\Users\lapin\source\repos\Practice2\Practice2\obj\Debug\Practice2.csproj.CoreCompileInputs.cache
 C:\Users\lapin\source\repos\Practice2\Practice2\obj\Debug\Practice2.exe
 C:\Users\lapin\source\repos\Practice2\Practice2\obj\Debug\Practice2.pdb
+C:\Users\lapin\source\repos\IT\Practice2\Practice2\bin\Debug\Practice2.exe.config
+C:\Users\lapin\source\repos\IT\Practice2\Practice2\bin\Debug\Practice2.exe
+C:\Users\lapin\source\repos\IT\Practice2\Practice2\bin\Debug\Practice2.pdb
+C:\Users\lapin\source\repos\IT\Practice2\Practice2\obj\Debug\Practice2.csprojAssemblyReference.cache
+C:\Users\lapin\source\repos\IT\Practice2\Practice2\obj\Debug\Practice2.Form1.resources
+C:\Users\lapin\source\repos\IT\Practice2\Practice2\obj\Debug\Practice2.Properties.Resources.resources
+C:\Users\lapin\source\repos\IT\Practice2\Practice2\obj\Debug\Practice2.csproj.GenerateResource.cache
+C:\Users\lapin\source\repos\IT\Practice2\Practice2\obj\Debug\Practice2.csproj.CoreCompileInputs.cache
+C:\Users\lapin\source\repos\IT\Practice2\Practice2\obj\Debug\Practice2.exe
+C:\Users\lapin\source\repos\IT\Practice2\Practice2\obj\Debug\Practice2.pdb

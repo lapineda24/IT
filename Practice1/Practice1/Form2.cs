@@ -16,6 +16,5 @@ namespace Practice1
     {
       InitializeComponent();
     }
-
   }
 }

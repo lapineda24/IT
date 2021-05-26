@@ -1,0 +1,10 @@
+C:\Users\lapin\source\repos\IT\Practice11\Practice11\bin\Debug\Practice11.exe.config
+C:\Users\lapin\source\repos\IT\Practice11\Practice11\bin\Debug\Practice11.exe
+C:\Users\lapin\source\repos\IT\Practice11\Practice11\bin\Debug\Practice11.pdb
+C:\Users\lapin\source\repos\IT\Practice11\Practice11\obj\Debug\Practice11.csprojAssemblyReference.cache
+C:\Users\lapin\source\repos\IT\Practice11\Practice11\obj\Debug\Practice11.Form1.resources
+C:\Users\lapin\source\repos\IT\Practice11\Practice11\obj\Debug\Practice11.Properties.Resources.resources
+C:\Users\lapin\source\repos\IT\Practice11\Practice11\obj\Debug\Practice11.csproj.GenerateResource.cache
+C:\Users\lapin\source\repos\IT\Practice11\Practice11\obj\Debug\Practice11.csproj.CoreCompileInputs.cache
+C:\Users\lapin\source\repos\IT\Practice11\Practice11\obj\Debug\Practice11.exe
+C:\Users\lapin\source\repos\IT\Practice11\Practice11\obj\Debug\Practice11.pdb

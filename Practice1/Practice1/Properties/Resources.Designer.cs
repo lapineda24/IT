@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Practice1._2.Properties
+namespace Practice1.Properties
 {
 
 
@@ -43,7 +43,7 @@ namespace Practice1._2.Properties
       get {
         if ((resourceMan == null))
         {
-          global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Practice1._2.Properties.Resources", typeof(Resources).Assembly);
+          global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Practice1.Properties.Resources", typeof(Resources).Assembly);
           resourceMan = temp;
         }
         return resourceMan;

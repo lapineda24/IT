@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -65,7 +66,7 @@ namespace Practice1
     {
       Random rnd = new Random();
       int value = rnd.Next(0, 3);
-      for(int i = 0; i < value; i++)
+      for (int i = 0; i < value; i++)
       {
         int k = rnd.Next(0, 4);
         if (ArrayButton[k].Visible == true) ArrayButton[k].Visible = false;

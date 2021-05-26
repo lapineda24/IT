@@ -1,0 +1,10 @@
+C:\Users\lapin\source\repos\IT\Prectice7\Prectice7\bin\Debug\Prectice7.exe.config
+C:\Users\lapin\source\repos\IT\Prectice7\Prectice7\bin\Debug\Prectice7.exe
+C:\Users\lapin\source\repos\IT\Prectice7\Prectice7\bin\Debug\Prectice7.pdb
+C:\Users\lapin\source\repos\IT\Prectice7\Prectice7\obj\Debug\Prectice7.csprojAssemblyReference.cache
+C:\Users\lapin\source\repos\IT\Prectice7\Prectice7\obj\Debug\Prectice7.Form1.resources
+C:\Users\lapin\source\repos\IT\Prectice7\Prectice7\obj\Debug\Prectice7.Properties.Resources.resources
+C:\Users\lapin\source\repos\IT\Prectice7\Prectice7\obj\Debug\Prectice7.csproj.GenerateResource.cache
+C:\Users\lapin\source\repos\IT\Prectice7\Prectice7\obj\Debug\Prectice7.csproj.CoreCompileInputs.cache
+C:\Users\lapin\source\repos\IT\Prectice7\Prectice7\obj\Debug\Prectice7.exe
+C:\Users\lapin\source\repos\IT\Prectice7\Prectice7\obj\Debug\Prectice7.pdb

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("Practice1.2")]
+[assembly: AssemblyTitle("Practice1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Practice1.2")]
+[assembly: AssemblyProduct("Practice1")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("55be05a9-a6e3-4974-b35b-776324e4fd91")]
+[assembly: Guid("67fac750-3f92-4b1b-a45f-f1fe501a44d9")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
